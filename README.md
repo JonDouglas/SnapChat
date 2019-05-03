@@ -1,5 +1,11 @@
 # Visual Challenge
 
+![](https://content.screencast.com/users/JDouglas2529/folders/Snagit/media/851ac303-e139-476a-8ff6-53f5c69bbe1f/05.03.2019-13.59.png)
+
+![](https://content.screencast.com/users/JDouglas2529/folders/Snagit/media/e5a7d1e7-8ee0-455b-888f-802c5c34861e/05.03.2019-14.00.png)
+
+![](https://content.screencast.com/users/JDouglas2529/folders/Snagit/media/a3d677bc-d8eb-45d7-b629-c9fa67491a41/05.03.2019-14.00.png)
+
 To take a single page design from a previous project that should look the same on iOS and Android, and attempt to recreate it using the latest Visual feature of Xamarin.Forms.
 
 ## Challenge Quick Start
